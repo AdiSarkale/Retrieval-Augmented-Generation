@@ -103,5 +103,3 @@ Best practices for combining retrieval + generation
 
 
 
-# If you like, I can **generate a version with real examples** (code snippets, API endpoints, sample queries) for your project — ready to plug in. Do you want me to do that?
-
